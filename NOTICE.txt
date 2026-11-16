@@ -1,0 +1,7 @@
+C-Code Solver 2.0 uses the following third-party components:
+- llama.cpp (MIT License): https://github.com/ggml-org/llama.cpp
+- Qwen2.5-Coder model (Apache License 2.0): https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF
+- Tesseract4Android (Apache License 2.0): https://github.com/adaptech-cz/Tesseract4Android
+- tessdata_fast language data: https://github.com/tesseract-ocr/tessdata_fast
+
+The GGUF model and Tesseract traineddata files are not bundled in this source archive.
